@@ -20,3 +20,6 @@ You will find a folder mapbox_package. This folder contains all required and gen
 The contents of this must be copied to the root of the URL you provided. 
 
 ...
+
+License
+See https://github.com/mapbox/mapbox-gl-js/blob/master/LICENSE.txt
